@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PepperWlk/PepperWlk/output/snake.yml" alt="Snake animation" />
+<img src="https://github.com/PepperWlk/PepperWlk/blob/main/snake.yml" alt="Snake animation" />
 
 ###
