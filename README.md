@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="155" src="https://media.tenor.com/deI_Hb6EDsYAAAAC/calimero-scratch-head.gif"  />
+<img align="right" height="155" src="https://media.tenor.com/deI_Hb6EDsYAAAAC/calimero-scratch-head.gif"/>
 
 ###
 
@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PepperWlk/PepperWlk/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
